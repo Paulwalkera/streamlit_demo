@@ -1,0 +1,14 @@
+.pytest_cache
+__pycache__/
+.DS_Store
+/*.DS_Store
+.vscode
+.idea
+/venv
+
+
+/static/*/*
+!/static/docs/*
+!/static/imgs/*
+/config/user_data.db
+/config/afConfig/save/afVal.db
